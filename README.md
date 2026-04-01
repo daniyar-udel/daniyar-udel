@@ -4,8 +4,7 @@ ML/AI Engineer building applied AI systems.
 
 🎓 M.S. in Data Science @ University of Delaware  
 💼 Former ML Engineer in FinTech  
-🏆 Winner - Google Build With AI Hackathon 2026 @ NYU Tandon with TreeRoute
-
+🏆 Winner — Google Build With AI Hackathon 2026 @ NYU Tandon with TreeRoute  
 🔎 Open to ML Engineer / AI Engineer / Data Scientist roles
 
 ## Featured Projects
@@ -14,7 +13,7 @@ ML/AI Engineer building applied AI systems.
 - [AI Investment Strategy Advisor](https://github.com/daniyar-udel/Financial-Planning-Advisor) — ML/LLM-powered investment planning system
 
 ## Stack
-Python, SQL, PyTorch, scikit-learn, LangChain, FastAPI, Docker, AWS
+Python, SQL, PyTorch, scikit-learn, LightGBM, LangChain, FastAPI, REST APIs, Docker, AWS, React, Next.js, TypeScript
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniyarabykhanov/)
