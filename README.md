@@ -15,5 +15,5 @@ ML/AI Engineer building applied AI systems with LLMs, NLP, and predictive modeli
 Python, SQL, PyTorch, scikit-learn, LangChain, FastAPI, Docker, AWS
 
 ## Contact
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/daniyarabykhanov/))
 - [Email](mailto:daniyar@udel.edu)
