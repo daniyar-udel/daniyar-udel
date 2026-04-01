@@ -1,4 +1,4 @@
-# Hi, I'm Daniyar Abykhanov 👋
+# Hi, I'm Daniyar (Danny) Abykhanov 👋
 
 ML/AI Engineer building applied AI systems with LLMs, NLP, and predictive modeling.
 
