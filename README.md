@@ -5,6 +5,7 @@ ML/AI Engineer building applied AI systems with LLMs, NLP, and predictive modeli
 🎓 M.S. in Data Science @ University of Delaware  
 💼 Former ML Engineer in FinTech  
 🏆 Winner — Google Build With AI Hackathon 2026 @ NYU Tandon with TreeRoute
+
 🔎 Open to ML Engineer / AI Engineer / Data Scientist roles
 
 ## Featured Projects
