@@ -1,19 +1,20 @@
-# Hi, I'm Daniyar (Danny) Abykhanov 👋
+# Hi, I'm Daniyar Abykhanov 👋
 
 ML/AI Engineer building applied AI systems with LLMs, NLP, and predictive modeling.
 
 🎓 M.S. in Data Science @ University of Delaware  
 💼 Former ML Engineer in FinTech  
-🏆 Winner — NYC Build With AI Hackathon 2026 (TreeRoute)
+🏆 Winner — NYC Build With AI Hackathon 2026 (GDG NYC / NYU Tandon) with TreeRoute  
+🔎 Open to ML Engineer / AI Engineer / Data Scientist roles
 
-## Projects
-- [TreeRoute](https://github.com/daniyar-udel/treeroute)
-- [Knowledge Copilot](https://github.com/daniyar-udel/knowledge-copilot)
-- [AI Investment Strategy Advisor](https://github.com/daniyar-udel/Financial-Planning-Advisor)
+## Featured Projects
+- [TreeRoute](https://github.com/daniyar-udel/treeroute) — multimodal route planner and hackathon-winning AI project
+- [Knowledge Copilot](https://github.com/daniyar-udel/knowledge-copilot) — RAG system for grounded Q&A over documents
+- [AI Investment Strategy Advisor](https://github.com/daniyar-udel/Financial-Planning-Advisor) — ML/LLM-powered investment planning system
 
 ## Stack
 Python, SQL, PyTorch, scikit-learn, LangChain, FastAPI, Docker, AWS
 
 ## Contact
-- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/daniyarabykhanov/))
+- [LinkedIn](https://www.linkedin.com/in/daniyarabykhanov/)
 - [Email](mailto:daniyar@udel.edu)
