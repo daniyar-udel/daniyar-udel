@@ -13,7 +13,7 @@ ML/AI Engineer building applied AI systems.
 - [AI Investment Strategy Advisor](https://github.com/daniyar-udel/Financial-Planning-Advisor) — ML/LLM-powered investment planning system
 
 ## Stack
-Python, SQL, PyTorch, scikit-learn, LightGBM, LangChain, FastAPI, REST APIs, Docker, AWS, React, Next.js, TypeScript
+Python, SQL, scikit-learn, LightGBM, PyTorch, LangChain, FastAPI, REST APIs, React, Next.js, TypeScript, Docker, AWS
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniyarabykhanov/)
