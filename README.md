@@ -1,6 +1,6 @@
 # Hi, I'm Daniyar (Danny) Abykhanov 👋
 
-ML/AI Engineer building applied AI systems with LLMs, NLP, and predictive modeling.
+ML/AI Engineer building applied AI systems.
 
 🎓 M.S. in Data Science @ University of Delaware  
 💼 Former ML Engineer in FinTech  
