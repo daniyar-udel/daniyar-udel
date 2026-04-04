@@ -1,6 +1,6 @@
 # Hi, I'm Daniyar (Danny) Abykhanov 👋
 
-**ML/AI Engineer** — I take AI ideas from whiteboard to production.
+**ML/AI Engineer** — specializing in multi-agent systems, RAG, and LLM pipelines — shipped to production with measurable business impact.
 
 🎓 M.S. in Data Science @ University of Delaware (GPA 3.7)  
 💼 Former ML Engineer in FinTech - credit scoring, LangChain agents, LLM pipelines  
