@@ -3,8 +3,7 @@
 **ML/AI Engineer** specializing in multi-agent systems, RAG, and LLM pipelines — shipped to production with measurable business impact.
 
 🎓 M.S. in Data Science @ University of Delaware (GPA 3.7)  
-🔬 Research Assistant @ UDel — spatio-temporal ML on climate data (PyTorch Geometric)  
-💼 Former ML Engineer @ Bank CenterCredit — credit scoring, LangChain agents, LLM pipelines  
+💼 Former ML Engineer in FinTech — credit scoring, LangChain agents, LLM pipelines  
 🏆 Winner — Google Build With AI Hackathon 2026 @ NYU Tandon  
 🔎 Open to **ML Engineer / AI Engineer / Data Scientist** roles
 
