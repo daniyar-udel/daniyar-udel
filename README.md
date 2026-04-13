@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Daniyar (Danny) Abykhanov 👋</h1>
 
 <p align="center">
-  ML/AI Engineer building applied AI systems — from production ML pipelines to LLM applications and full-stack AI products.
+  ML/AI Engineer building applied AI systems - from production ML pipelines to LLM applications and full-stack AI products.
 </p>
 
 <p align="center">
   🎓 M.S. in Data Science @ University of Delaware<br/>
   💼 Former ML Engineer in FinTech<br/>
-  🏆 Winner — Google Build With AI Hackathon 2026 @ NYU Tandon<br/>
+  🏆 Winner - Google Build With AI Hackathon 2026 @ NYU Tandon<br/>
 </p>
 
 <p align="center">
