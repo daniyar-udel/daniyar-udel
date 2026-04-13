@@ -8,7 +8,6 @@
   🎓 M.S. in Data Science @ University of Delaware<br/>
   💼 Former ML Engineer in FinTech<br/>
   🏆 Winner — Google Build With AI Hackathon 2026 @ NYU Tandon<br/>
-  🔎 Open to ML Engineer / AI Engineer / Data Scientist roles
 </p>
 
 <p align="center">
